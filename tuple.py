@@ -1,4 +1,4 @@
-tup1 = ('z','abc','xyz','pqr')
+tup1 = ('z','abc','xyz','pqr')1
 
 for i in tup1:
     print(i)
